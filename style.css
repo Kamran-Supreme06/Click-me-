@@ -100,7 +100,8 @@
   opacity: 0;
   transition: opacity 1.5s ease;
 
-  transform: translateX(-60px);
+ /* transform: translateX(-60px);*/
+    
 }
 
 
@@ -165,6 +166,7 @@
 .photos img.active {
   opacity: 1;
 }
+
 
 
 
