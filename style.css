@@ -67,10 +67,14 @@
   
   /* Buttons */
   .buttons {
-    margin-top: 20px;
-    display: flex;
-    gap: 15px;
-  }
+  margin-top: 20px;
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  gap: 15px;
+  width: 100%;
+}
+
   
   button {
     padding: 15px 25px;
@@ -185,6 +189,7 @@
     margin-right: auto;
   }
 }
+
 
 
 
